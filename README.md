@@ -1,6 +1,4 @@
 ## created for eusto.ma users with 🤍
-
-## info
 it is a fork of [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) with the addition of `systray`, designed to tunnel a shadowsocks connection (with `ssconf` support).
 
 ## features
