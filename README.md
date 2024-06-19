@@ -11,7 +11,7 @@ it is a fork of [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2
 2. put it somewhere (e.g. C:\)
 3. create shortcut for it
 4. open shortcut properties
-5. add text to the target field: ` -c <your-config-url> -verbose -socks :<port>` (port any of the possible, e.g. 3080)
+5. add text to the target field: ` -c <your-ssconf-key> -verbose -socks :<port>` (port any of the possible, e.g. 3080)
 6. run shortcut
 7. 🪐 icon will appear in the tray
 8. now you can connect to the proxy at `socks5://127.0.0.1:<port>`
